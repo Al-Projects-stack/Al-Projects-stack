@@ -22,15 +22,15 @@ I build backends, wire up cloud infrastructure, and occasionally make computers 
 
 ---
 
-### 🚀 What I'm working on
+What am i working on you ask?
 
-Building and deploying production systems — AI powered pipelines, SaaS platforms, cloud infrastructure. Every project I ship is live and built with the same care I'd bring to a real client.
+Well, im building and deploying production systemsAI powered pipelines, SaaS platforms, cloud infrastructure. Every project I ship is live and built with the same care I'd bring to a real client.
 
 Currently completing a BSc Honours in Security and Network Engineering.
 
 ---
 
-### 📬 Connect
+### 📬 Wanna Connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-mujati-494789224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://al-projects-stack.github.io/almujati.github.io/)
