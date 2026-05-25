@@ -34,8 +34,8 @@ Currently completing a BSc Honours in Security and Network Engineering.
 
 | Project | What it does |
 |---|---|
-| [CarIQ](https://cariq-frontend.onrender.com) | RAG-powered SA used car market intelligence — ask about prices, faults, and reliability |
-| [GitScope](https://github-dashboard-jbpu.onrender.com) | GitHub analytics dashboard — explore any public profile instantly |
+| [CarIQ](https://cariq-frontend.onrender.com) | RAG-powered SA used car market intelligence ask about prices, faults, and reliability |
+| [GitScope](https://github-dashboard-jbpu.onrender.com) | GitHub analytics dashboard explore any public profile instantly |
 | [FinanceOS](https://finance-dashboard-xu3i.onrender.com) | Personal finance dashboard with ZAR transaction tracking and cash flow charts |
 | [Fleet Manager](https://fleet-frontend-kqhi.onrender.com) | AI-powered fleet maintenance and fuel optimisation system |
 | [Job Tracker](https://job-tracker-i9vh.onrender.com) | Full-stack job application tracker with 7-stage pipeline and analytics |
