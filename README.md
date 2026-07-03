@@ -47,8 +47,3 @@ Currently completing a BSc Honours in Security and Network Engineering.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-mujati-494789224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://al-projects-stack.github.io/almujati.github.io/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:almujati02@gmail.com)
-
-## What I Learned
-
-- How to structure a GitHub profile README to communicate your stack and live projects without it reading like a CV
-- Using shields.io badges and GitHub Stats cards to surface dynamic data (language breakdowns, repo stats) inline in Markdown
