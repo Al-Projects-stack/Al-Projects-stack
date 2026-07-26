@@ -26,7 +26,7 @@ What am i working on you ask?
 
 Well, im building and deploying production systemsAI powered pipelines, SaaS platforms, cloud infrastructure. Every project I ship is live and built with the same care I'd bring to a real client.
 
-Currently completing a BSc Honours in Security and Network Engineering.
+
 
 ---
 
