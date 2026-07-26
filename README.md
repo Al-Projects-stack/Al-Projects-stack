@@ -1,4 +1,4 @@
-# Hi, I'm Al 👋
+# Hi, I'm Al
 
 **Backend and Cloud Engineer based in Johannesburg**
 
@@ -6,7 +6,7 @@ I build backends, wire up cloud infrastructure, and occasionally make computers 
 
 ---
 
-### 🛠️ Tech stack
+###  Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat&logo=dotnet&logoColor=white)
@@ -30,7 +30,7 @@ Well, im building and deploying production systemsAI powered pipelines, SaaS pla
 
 ---
 
-### 🚀 Live Projects
+###  Live Projects
 
 | Project | What it does |
 |---|---|
@@ -42,7 +42,7 @@ Well, im building and deploying production systemsAI powered pipelines, SaaS pla
 
 ---
 
-### 📬 Wanna Connect?
+###  Wanna Connect?
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/al-mujati-494789224)
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=github&logoColor=white)](https://al-projects-stack.github.io/almujati.github.io/)
