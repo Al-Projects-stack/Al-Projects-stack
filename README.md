@@ -1,4 +1,4 @@
-# Hi, I'm Al
+# Hi, I'm AL
 
 AI and LLM Engineer based in Johannesburg
 I build AI backends, orchestrate LLM infrastructure, and occasionally make models do things they weren't originally trained to do. I don't wait for opportunities to learn. I build.
