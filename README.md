@@ -23,7 +23,7 @@ I build AI backends, orchestrate LLM infrastructure, and occasionally make model
 
 What am i working on you ask?
 
-Well, im building and deploying production systemsAI powered pipelines, SaaS platforms, cloud infrastructure. Every project I ship is live and built with the same care I'd bring to a real client.
+Well, im building and deploying production systems,AI powered pipelines, SaaS platforms, cloud infrastructure. Every project I ship is live and built with the same care I'd bring to a real client.
 
 
 
