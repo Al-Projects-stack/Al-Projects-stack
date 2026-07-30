@@ -1,8 +1,7 @@
 # Hi, I'm Al
 
-**Backend and Cloud Engineer based in Johannesburg**
-
-I build backends, wire up cloud infrastructure, and occasionally make computers do things they weren't originally asked to do. I don't wait for opportunities to learn. I build.
+AI and LLM Engineer based in Johannesburg
+I build AI backends, orchestrate LLM infrastructure, and occasionally make models do things they weren't originally trained to do. I don't wait for opportunities to learn. I build.
 
 ---
 
