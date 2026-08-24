@@ -37,7 +37,7 @@ Well, im building and deploying production systems,AI powered pipelines, SaaS pl
 | [GitScope](https://github-dashboard-jbpu.onrender.com) | GitHub analytics dashboard explore any public profile instantly |
 | [FinanceOS](https://finance-dashboard-xu3i.onrender.com) | Personal finance dashboard with ZAR transaction tracking and cash flow charts |
 | [Fleet Manager](https://fleet-frontend-kqhi.onrender.com) | AI-powered fleet maintenance and fuel optimisation system |
-| [Job Tracker](https://job-tracker-b8el.onrender.com/) | Full-stack job application tracker with 7-stage pipeline and analytics |
+| [CV Automation](https://apply-py.onrender.com) | Paste any job description. Get a CV and cover letter written around that exact role |
 
 ---
 
