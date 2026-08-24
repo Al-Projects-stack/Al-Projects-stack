@@ -1,7 +1,10 @@
-# Hi, I'm AL
+Hi, I'm AL
 
-AI and LLM Engineer based in Johannesburg
-I build AI backends, orchestrate LLM infrastructure, and occasionally make models do things they weren't originally trained to do. I don't wait for opportunities to learn. I build.
+Software Developer based in Johannesburg.
+
+I build web applications, backend systems, APIs, cloud solutions, and AI powered tools. My work spans JavaScript, TypeScript, Python, C#, React, .NET, databases, cloud infrastructure, networking, and security.
+
+Always learning. Always building. Always breaking something and figuring out why.
 
 ---
 
